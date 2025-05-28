@@ -1,6 +1,6 @@
 # Â¡Hola, soy Noelia Mora! ðŸ‘‹
 
-<img align="right" src="https://raw.githubusercontent.com/Noelia-Mora/Noelia-Mora/main/Noe_Git.png" width="250" alt="Coding gif">
+<img align="right" src="https://raw.githubusercontent.com/Noelia-Mora/main/Noe_Git.png" width="250" alt="Coding gif">
 
 Â¡Bienvenido a mi perfil de GitHub!  
 Soy un apasionado del desarrollo y la tecnologÃ­a, siempre buscando aprender algo nuevo y compartir mis proyectos con la comunidad.
