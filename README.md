@@ -1,49 +1,31 @@
-# Â¡Hola, soy Noelia Mora! ðŸ‘‹
-
+¡Hola, soy Noelia Mora! 👋
 <img align="right" src="https://github.com/NoeliaMSimon/Noelia-Mora/blob/main/Noe_Git.png" width="250" alt="Coding gif">
+¡Bienvenido a mi perfil de GitHub!
+Soy una apasionada del desarrollo y la tecnología, siempre buscando aprender algo nuevo y compartir mis proyectos con la comunidad.
 
-Â¡Bienvenido a mi perfil de GitHub!  
-Soy un apasionado del desarrollo y la tecnologÃ­a, siempre buscando aprender algo nuevo y compartir mis proyectos con la comunidad.
+🚀 Sobre mí
+💻 Desarrolladora Aplicaciones Web y Certificada en .NET CORE.
 
----
+🌱 Actualmente aprendiendo sobre inteligencia artificial y automatización.
 
-## ðŸš€ Sobre mÃ­
+🛠️ Tecnologías favoritas: PHP, C#, ASP.NET CORE, JavaScript, Python, Java, Node.js, MySQL, SQLServer.
 
-- ðŸ’» Desarrollador web y entusiasta del cÃ³digo abierta.
-- ðŸŒ± Actualmente aprendiendo sobre **inteligencia artificial** y **automatizaciÃ³n**.
-- ðŸ› ï¸ TecnologÃ­as favoritas: **PHP**, **C#**, **ASP.NET CORE**, **JavaScript**, **Python**, **Java**, **Node.js**, **MySQL**, **SQLServer**.
-- ðŸ“ Basado en EspaÃ±a.
-- ðŸŽ¯ Amante de los retos y la resoluciÃ³n de problemas.
+📍 Resido en España, con posibilidad de teletrabajar en Reino Unido.
 
----
+🎯 Amante de los retos y la resolución de problemas.
 
-## ðŸ“ˆ EstadÃ­sticas de GitHub
+📈 Estadísticas de GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Noelia-Mora&show_icons=true&theme=radical" alt="Noelia-Mora's GitHub stats" width="410"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noelia-Mora&layout=compact&theme=radical" alt="Top Langs" width="330"/> </p>
+🌐 Conéctate conmigo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nacosan&show_icons=true&theme=radical" alt="nacosan's GitHub stats" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacosan&layout=compact&theme=radical" alt="Top Langs" width="330"/>
-</p>
 
----
 
-## ðŸŒ ConÃ©ctate conmigo
+✨ Frase que me inspira
+"Nunca dejes de aprender, porque la vida nunca deja de enseñar."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://[www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/noeliamorasimon/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noeliamsimon@gmail.com)
+📂 Proyectos destacados
+Nombre del Proyecto 1 — Breve descripción de tu proyecto más interesante.
 
----
+Nombre del Proyecto 2 — Otro proyecto destacado o divertido.
 
-## âœ¨ Frase que me inspira
-
-> "El mejor momento para plantar un Ã¡rbol fue hace 20 aÃ±os. El segundo mejor momento es ahora."
-
----
-
-## ðŸ“‚ Proyectos destacados
-
-- [**Nombre del Proyecto 1**](enlace-al-proyecto) â€” Breve descripciÃ³n de tu proyecto mÃ¡s interesante.
-- [**Nombre del Proyecto 2**](enlace-al-proyecto) â€” Otro proyecto destacado o divertido.
-
----
-
-Â¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna idea, Â¡no dudes en contactarme! ðŸš€
+¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna idea, ¡no dudes en contactarme! 🚀
